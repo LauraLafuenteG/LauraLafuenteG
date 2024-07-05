@@ -1,4 +1,4 @@
-Hello! My name is Laura Lafuente-Gracia and I am a PhD researcher at KU Leuven in Belgium, doing research on mathematical biology and *in silico* medicine, with focus on bone fracture healing.
+Hello! My name is Laura Lafuente-Gracia and I am a PhD researcher in Biomedical engineering at KU Leuven in Belgium, doing research on mathematical biology and *in silico* medicine, with focus on bone fracture healing.
 
 <!---
 laulagra/laulagra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
